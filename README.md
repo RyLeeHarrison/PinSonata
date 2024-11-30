@@ -1,6 +1,6 @@
 # PinSonata 🚀
 
-**PinSonata** is a highly flexible Arduino library that orchestrates GPIO pins, analog readings, and interrupts into a seamless "sonata" of data flows. From simple LED control to interfacing advanced Analog-to-Digital Converters (ADCs), PinSonata enables developers to create complex and efficient workflows with ease. (Used ChatGPT to write this README, so much faster...).
+**PinSonata** is a highly flexible Arduino library that orchestrates GPIO pins, analog readings, and interrupts into a seamless "sonata" of data flows. From simple LED control to interfacing advanced Analog-to-Digital Converters (ADCs), PinSonata enables developers to create complex and efficient workflows with ease.
 ---
 
 ## Features
@@ -385,3 +385,5 @@ void loop() {
 This library is distributed under the MIT License. 
 
 ---
+
+<sub>(Used ChatGPT to write this README, so much faster...).<sup>
